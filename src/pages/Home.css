@@ -1,0 +1,10 @@
+.Home{padding-top:.6rem;padding-bottom:.8rem}
+
+.home-swiper__item__title{
+  position: absolute;
+  left:0;
+  bottom:0;
+  background: rgba(0,0,0,.5);
+  width:100%;
+  color:#fff
+}
